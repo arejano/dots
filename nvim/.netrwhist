@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/arejano/.themes/Arkk/openbox-3'
+let g:netrw_dirhist_5='/home/arejano/git/arkk/dotfiles/openbox'
 let g:netrw_dirhist_4='/home/arejano/projects/nuxt/teste/plugins'
 let g:netrw_dirhist_3='/home/arejano/teste_tesseract'
 let g:netrw_dirhist_2='/home/arejano/.config/teste_nvim'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_0='/home/arejano/.config/nvim/plugged/coc.nvim'
 let g:netrw_dirhist_9='/home/arejano/.config/test_nvim/plug-config'
 let g:netrw_dirhist_8='/home/arejano/projects/rust/web/Rocket/examples/json'
 let g:netrw_dirhist_7='/home/arejano/projects/vue/urlinc/src/components'
-let g:netrw_dirhist_6='/home/arejano/projects/vue/urlinc/src/router'
-let g:netrw_dirhist_5='/home/arejano/projects/vue/urlinc/src'
